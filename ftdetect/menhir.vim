@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.mly setf menhir
+au BufNewFile,BufRead *.mly set ft=menhir

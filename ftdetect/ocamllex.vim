@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.mll setf ocamllex
+au BufNewFile,BufRead *.mll set ft=ocamllex
